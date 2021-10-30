@@ -1,0 +1,7 @@
+C:\Users\carlo\source\repos\Histogram-Lab\Histogram-Lab\bin\Debug\Histogram-Lab.exe.config
+C:\Users\carlo\source\repos\Histogram-Lab\Histogram-Lab\bin\Debug\Histogram-Lab.exe
+C:\Users\carlo\source\repos\Histogram-Lab\Histogram-Lab\bin\Debug\Histogram-Lab.pdb
+C:\Users\carlo\source\repos\Histogram-Lab\Histogram-Lab\obj\Debug\Histogram-Lab.csproj.AssemblyReference.cache
+C:\Users\carlo\source\repos\Histogram-Lab\Histogram-Lab\obj\Debug\Histogram-Lab.csproj.CoreCompileInputs.cache
+C:\Users\carlo\source\repos\Histogram-Lab\Histogram-Lab\obj\Debug\Histogram-Lab.exe
+C:\Users\carlo\source\repos\Histogram-Lab\Histogram-Lab\obj\Debug\Histogram-Lab.pdb
