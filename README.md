@@ -1,18 +1,24 @@
 # Histogram-Project
 This application allows you to get the entire speech, get all the words in the speech, create a histogram of all unique words with a graph, search for a specific word, and remove a word from the histogram.
 
-<!-- GETTING STARTED -->
-## Getting Started
+### Built With
+- [C# .NET framework](https://docs.microsoft.com/en-us/dotnet/framework/)
+- [Visual Studio IDE](https://visualstudio.microsoft.com/)
 
-You will need visual studio to run the application locally. other then that follow the Installation instructions to access the code. 
+<!-- GETTING STARTED -->
+### Getting Started
+
+You will need an IDE to run the application locally. Other then that follow the Installation instructions to access the code. 
 Also, dont forget to follow the proccess in contributing. If you have any questions feel free to contact me with my information below.
 
 ### Installation
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone git@github.com:Carlosvann45/Histogram-Project.git
    ```
+   
+2. Open in it your favorite IDE and run.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
