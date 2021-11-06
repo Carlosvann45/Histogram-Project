@@ -3,7 +3,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#histogram-project">About The Project</a>
+      <a href="#histogram-project">Histogram Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
