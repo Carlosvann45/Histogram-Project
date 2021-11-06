@@ -6,7 +6,7 @@ This application allows you to get the entire speech, get all the words in the s
 - [Visual Studio IDE](https://visualstudio.microsoft.com/)
 
 <!-- GETTING STARTED -->
-### Getting Started
+## Getting Started
 
 You will need an IDE to run the application locally. Other then that follow the Installation instructions to access the code. 
 Also, dont forget to follow the proccess in contributing. If you have any questions feel free to contact me with my information below.
