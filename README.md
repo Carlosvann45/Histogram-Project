@@ -38,8 +38,6 @@ Also, dont forget to follow the proccess in contributing. If you have any questi
    ```sh
    git clone git@github.com:Carlosvann45/Histogram-Project.git
    ```
-   
-2. Open in it your favorite IDE and run.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
